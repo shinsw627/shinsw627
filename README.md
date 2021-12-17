@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
 
 
-
-
 ### 안녕하세요 주니어개발자를 꿈꾸는 신성웅 입니다 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinsw627)](https://github.com/anuraghazra/github-readme-stats)
