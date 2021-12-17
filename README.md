@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,100:3F4CEF&height=300&section=header&text=SungWoongShin👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,100:5194F0&height=300&section=header&text=SungWoongShin👋&fontSize=90)
 
 
 ### 안녕하세요 주니어개발자를 꿈꾸는 신성웅 입니다 👋
