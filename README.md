@@ -10,8 +10,11 @@
 
 ## 프로젝트 활동
 [Fungap (Mbti별 콘텐츠 제공 사이트) - 6인 6주](https://github.com/fungap/fungap-back)
+
 [Happy tongue (맛집 공유 및 추천 커뮤니티) - 6인 1주](https://github.com/shinsw627/happyTongue-Back)
+
 [네이버시리즈 클론코딩 - 4인 1주](https://github.com/hanghae99-cloneProject-neverSeries/backend)
+
 [Where we go? (반려견 동반 캠핑장 조회 서비스) - 4인 1주](https://github.com/developer-asher/mini-project)
 
 
