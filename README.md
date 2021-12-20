@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=5194F0&size=55&center=true&vCenter=true&width=1300&height=150&lines=Hi!!+I'm+Sungwoong)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=5194F0&size=80&center=true&vCenter=true&width=1300&height=150&lines=Hi!!+I'm+Sungwoong)](https://git.io/typing-svg)
 
 ### 안녕하세요 항상 발전을 고민하는 개발자가 되고 싶은 신성웅 입니다 👋
 
