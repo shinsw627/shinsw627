@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:5194F0&height=300&section=header&text=SungWoongShin&fontSize=90)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=5194F0&size=55&center=true&vCenter=true&width=1000&height=70&lines=Hi!!+I'm+Donggun)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=5194F0&size=55&center=true&vCenter=true&width=1000&height=100&lines=Hi!!+I'm+Sungwoong)](https://git.io/typing-svg)
 
 ### 안녕하세요 항상 발전을 고민하는 개발자가 되고 싶은 신성웅 입니다 👋
 
