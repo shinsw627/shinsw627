@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi!+I'm+sungwoong&fontAlign=70&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:5194F0&height=300&section=header&text=Hi!+I'm+sungwoong&fontSize=90&animation=twinkling)
 
 
 ### 안녕하세요 항상 발전을 고민하는 개발자 신성웅 입니다 👋
