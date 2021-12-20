@@ -5,6 +5,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinsw627)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Shinsw627](https://github-readme-stats.vercel.app/api/top-langs/?username=Ldonggun&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/shinsw627)
+
 ## 공부기록
 [Study](https://github.com/shinsw627/Study) 레포지토리에 정리했습니다. [바로가기](https://github.com/shinsw627/Study)
 
