@@ -19,6 +19,8 @@
 
 
 ## ⚒프로젝트 활동
+[helloNest (Nest.js 연습 개인프로젝트)](https://github.com/shinsw627/helloNest)
+
 [Fungap (Mbti별 콘텐츠 제공 사이트) - 6인 / 6주](https://github.com/fungap/fungap-back)
 
 [Happy tongue (맛집 공유 및 추천 커뮤니티) - 6인 / 1주](https://github.com/shinsw627/happyTongue-Back)
