@@ -16,7 +16,7 @@
 ## ⭐포트폴리오
 [포트폴리오](https://natural-gong-212.notion.site/e2e8385a84a44828a590dd4627de2e60)
 
-### VELOG 
+## 💚VELOG 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@shinsw627)
 
