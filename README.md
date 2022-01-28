@@ -16,6 +16,12 @@
 ## ⭐포트폴리오
 [포트폴리오](https://natural-gong-212.notion.site/e2e8385a84a44828a590dd4627de2e60)
 
+### VELOG 
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@shinsw627)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shinsw627&color=dark)](https://github.com/shinsw627/velog-readme-stats)
+<hr/>
 
 ## ⚒프로젝트 활동
 [helloNest (Nest.js 연습 개인프로젝트)](https://github.com/shinsw627/helloNest)
