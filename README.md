@@ -11,7 +11,6 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@shinsw627)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shinsw627&color=dark)](https://github.com/shinsw627/velog-readme-stats)
 <hr/>
 
 <!--
