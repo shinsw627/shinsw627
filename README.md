@@ -5,8 +5,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinsw627)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Shinsw627](https://github-readme-stats.vercel.app/api/top-langs/?username=shinsw627&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/shinsw627)
-
 ## 💚VELOG 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@shinsw627)
